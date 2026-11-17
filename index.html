@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fruto Do Esperíto & Promessas</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <canvas id="particles"></canvas>
+
+  <main class="stage">
+    <header class="header">
+      <h1 class="title">Fruto Do Espiríto & Promessas</h1>
+      <p class="subtitle">Gire e descubra</p>
+    </header>
+
+    <div class="scene" id="scene">
+      <div class="box" id="box">
+        <div class="face front">?</div>
+        <div class="face back">?</div>
+        <div class="face right">?</div>
+        <div class="face left">?</div>
+        <div class="face top">?</div>
+        <div class="face bottom">?</div>
+      </div>
+    </div>
+
+    <button class="shuffle-btn" id="shuffleBtn" type="button">Embaralhar</button>
+  </main>
+
+  <div class="alert-overlay" id="alertOverlay" aria-hidden="true"
+       role="dialog" aria-modal="true" aria-labelledby="alertMessage">
+    <div class="alert-box">
+      <div class="alert-icon" aria-hidden="true">✦</div>
+      <p class="alert-message" id="alertMessage"></p>
+      <button class="alert-close" id="alertClose" type="button">Fechar</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
