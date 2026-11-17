@@ -4,6 +4,17 @@
 const BACKEND = {
   messages: [
     
+    //Fruto
+    "A Palavra de Deus diz que: 'A alegria do Senhor é a nossa força'. (Neemias 8:10)",
+    "Somos fruto do Espírito Santo: Amor.",
+    "Somos fruto do Espírito Santo: Bondade.",
+    "Jesus disse que devemos amar os nossos inimigos e orar por aqueles que nos perseguem. (Mateus 5:44)",
+    "Trate os outros como quer que os outros tratem você. (Lucas 6:31)",
+    "Graça e paz vos sejam multiplicadas. (1 Pedro 1:2)",
+    "Façamos o bem a todos, especialmente aos da família da fé. (Gálatas 6:10)",
+    "Felizes são os mansos porque eles herdarão a terra. (Mateus 5:5)",
+    "Necessitais de perseverança para alcançar a promessa de Deus. (Hebreus 10:36)",
+    
     // 1. Promessas Fundamentais do Antigo Testamento (Alianças)
     "A aliança com Noé: Deus prometeu que nunca mais destruiria toda a carne com um dilúvio. (Gênesis 9:11)",
     "A aliança com Abraão: Deus prometeu fazer dele uma grande nação e abençoar todas as famílias da terra. (Gênesis 12:2-3)",
